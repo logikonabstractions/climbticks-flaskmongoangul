@@ -1,0 +1,8 @@
+2020-05-30 22:17:10,413 - root - INFO - Hello! Running env:development
+2020-05-30 22:17:10,719 - root - INFO - Hello! Running env:development
+2020-05-30 22:17:16,208 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-05-30 22:17:26,004 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-05-30 22:20:53,220 - root - INFO - Hello! Running env:development
+2020-05-30 22:20:53,607 - root - INFO - Hello! Running env:development
+2020-05-30 22:20:56,354 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-05-30 22:22:31,664 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
