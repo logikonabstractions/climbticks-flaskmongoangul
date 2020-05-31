@@ -10,7 +10,7 @@ from logger import logger
 from flask import  jsonify, request, make_response, send_from_directory
 from app import app
 
-"""First, setting up some basic elements. Those could probably be moved to some init/config file eventually.
+"""First, setting up some basic elements. Those could probably be moved to some init/config file eventually .
 
     We first find the path to the root of our repository, which is just the index.py location. **This assumes that the index.py lives at the root of the directory**. We then add it to the environemnet variable. 
 """
